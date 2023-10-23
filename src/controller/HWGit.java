@@ -7,6 +7,7 @@ public class HWGit {
 		
 		System.out.println("Olá mundo");
 		System.out.println("Conhecendo o Git");
+		System.out.println("Já sei fazer commit");
 
 	}
 
